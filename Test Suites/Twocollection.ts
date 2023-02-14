@@ -12,7 +12,7 @@
             <groupName>Web Desktop</groupName>
             <profileName>Website1</profileName>
             <requireConfigurationData>false</requireConfigurationData>
-            <runConfigurationId>Firefox</runConfigurationId>
+            <runConfigurationId>Firefox (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/WebsitesOne</testSuiteEntity>

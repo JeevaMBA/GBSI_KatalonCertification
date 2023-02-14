@@ -37,7 +37,7 @@ WebUI.getPageWidth()
 
 WebUI.scrollToPosition(720, 500)
 
-WebUI.takeAreaScreenshotAsCheckpoint('news12', a)
+WebUI.takeScreenshotAsCheckpoint('news12', a)
 
 WebUI.takeScreenshotAsCheckpoint('asdf12')
 

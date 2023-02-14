@@ -27,7 +27,7 @@ WebUI.verifyElementPresent(findTestObject('Page_DEMOQA/Full Name'), 0)
 
 WebUI.getPageHeight()
 
-WebUI.takeScreenshotAsCheckpoint('')
+WebUI.takeScreenshotAsCheckpoint('djdgfner234')
 
 WebUI.setText(findTestObject('Page_DEMOQA/Full Name'), 'some free text here goes')
 
